@@ -1,0 +1,13 @@
+Neocade Cartridge Handheld – SD Card Compatibility Notes
+
+The files available on this shared drive are the ones that can be successfully read by the Neocade Cartridge Handheld. According to a representative, the Neocade is only compatible with certain SD cards — specifically, ones similar to those used during its manufacturing in China.
+
+It appears the device may have been optimized to work with SD cards sourced from Chinese manufacturers. As such, generic or unbranded SD cards (often considered unreliable or "ticking time bombs" by the gaming community) seem to be the ones that function correctly with the handheld.
+
+Unfortunately, there wasn’t much detail provided about which specific brands or models are supported. However, if you have older TF/SD cards from previous devices or have purchased cards from Chinese vendors, try formatting one and copying these files onto it to test compatibility.
+
+Please feel free to update this TXT file or add your findings if you discover additional compatible cards or methods.
+
+Thanks, and happy gaming! 🙌🎮
+
+P.S. If you would like to work on this further with me please do not hesitate to send me a message and we can find some time together to work on this as a side project.  
